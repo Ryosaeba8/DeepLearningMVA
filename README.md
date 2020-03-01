@@ -1,3 +1,5 @@
 # DeepLearningMVA
-Assigments for the DEEP LEARNING course : The NLP project and the Reinforcement Learning project
+Assigments for the DEEP LEARNING course : 
+- The NLP project 
+- The Reinforcement Learning project
 
