@@ -2,10 +2,10 @@
 We've implemented various models and configurations
  - A fully connected model with 3 layers
 
- <img src="https://github.com/Ryosaeba8/DeepLearningMVA/tree/master/rl_project/videos/fc.gif" width="400"/>  
+ <img src="https://github.com/Ryosaeba8/DeepLearningMVA/blob/master/rl_project/videos/fc.gif" width="400"/>  
  - A CNN network
- <img src="https://github.com/Ryosaeba8/DeepLearningMVA/tree/master/rl_project/videos/cnn.gif" width="400"/>  
+ <img src="https://github.com/Ryosaeba8/DeepLearningMVA/blob/master/rl_project/videos/cnn.gif" width="400"/>  
  - CNN with an adaptive exploration rate
- <img src="https://github.com/Ryosaeba8/DeepLearningMVA/tree/master/rl_project/videos/explore.gif" width="400"/>  
+ <img src="https://github.com/Ryosaeba8/DeepLearningMVA/blob/master/rl_project/videos/explore.gif" width="400"/>  
  - A Mimic model
- <img src="https://github.com/Ryosaeba8/DeepLearningMVA/tree/master/rl_project/videos/mimic.gif" width="400"/>  
+ <img src="https://github.com/Ryosaeba8/DeepLearningMVA/blob/master/rl_project/videos/mimic.gif" width="400"/>  
