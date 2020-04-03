@@ -7,7 +7,6 @@ A rat runs on an island and tries to eat as much as possible. The island is subd
 The goal is to code an agent to solve this task that will learn by trial and error
 We've implemented various models and configurations
 ### A fully connected model with 3 layers
-
  <img src="https://github.com/Ryosaeba8/DeepLearningMVA/blob/master/rl_project/videos/fc.gif" width="400"/>  
 ### A CNN network
  <img src="https://github.com/Ryosaeba8/DeepLearningMVA/blob/master/rl_project/videos/cnn.gif" width="400"/>  
